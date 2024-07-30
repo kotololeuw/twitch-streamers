@@ -1,2 +1,2 @@
 # twitch-streamers
-api-key
+api-key for ChromeExtension https://chromewebstore.google.com/detail/twitch-streamers/hlhlhcfpenclbipcnblgpfddhnokomel
